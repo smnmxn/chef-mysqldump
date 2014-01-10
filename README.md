@@ -1,4 +1,4 @@
-mysqldump Cookbook / LWRP
+Chef mysqldump LWRP
 =========================
 LWRP for using mysqldump tool in your chef recipes.  Dumps MySQL Database(s) to a file.
 
