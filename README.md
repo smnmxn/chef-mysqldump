@@ -8,6 +8,9 @@ Requirements
 MySQL Client - The mysqldump Chef LWRP requires MySQL Client to be installed
 
 
+Usage
+------------
+
 #### Attribute Parameters
 - dbhost: mysql server host
 - dbuser: username to connect to the mysql host with
